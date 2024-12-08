@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Create Admin</title>
+    <title>Admin</title>
     
     <style>
         body {
@@ -86,10 +86,10 @@
         <a href="home">Back to Home</a>
     </div>
 
-    <h2>Create Admin</h2>
+    <h2>Admin</h2>
 
     <div class="form-container">
-        <form action="create-admin" method="post">
+        <form action="admin" method="post">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required><br>
 
